@@ -1,4 +1,4 @@
-# MLWL-discussion
+# WLML discussions
 
 [![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/TpjDNTze)
 
